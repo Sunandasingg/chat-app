@@ -232,3 +232,10 @@ function createUserList({ avatar, name, time }, index) {
     calc(document.querySelector('.inpMssg'))
     }
     
+  
+    
+    
+    
+    
+    
+  }
