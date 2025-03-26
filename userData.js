@@ -2,84 +2,84 @@
 const usersData = [
     {
       avatar:
-        "https://hips.hearstapps.com/hmg-prod/images/gettyimages-942065100-copy.jpg?resize=1200:*",
-      name: "John Mayers",
+        "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg",
+      name: "Ram",
       time: "3 min ago",
-      status: "Accountant",
+      status: "sales",
     },
     {
       avatar:
-        "https://cdn.pixabay.com/photo/2021/07/20/14/59/iron-man-6480952_1280.jpg",
-      name: "Tony Stark",
+        "https://w7.pngwing.com/pngs/4/736/png-transparent-female-avatar-girl-face-woman-user-flat-classy-users-icon.png",
+      name: "Sara",
       time: "10 min ago",
-      status: "Genius, Billionaire, Playboy, Philanthropist",
+      status: "sales",
     },
     {
       avatar:
-        "https://c4.wallpaperflare.com/wallpaper/739/10/526/scarlett-johansson-face-pink-lipstick-actress-wallpaper-preview.jpg",
-      name: "S. Johansson",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmxEEF0izutG58whJemDND76CLGgTMqujmQ&s",
+      name: "satya",
       time: "3 hours ago",
-      status: "Black Widow",
+      status: "sales",
     },
     {
       avatar:
-        "https://www.gannett-cdn.com/presto/2023/02/15/USAT/d22ad1a7-00ec-425f-b1c9-a643fcfcda9f-AFP_AFP_336E7FA.jpg",
-      name: "Jeremy Renner",
+        "https://cdn.dribbble.com/userupload/36500593/file/original-a946c50e764da3af9a837ef9fe575328.jpg?format=webp&resize=400x300&vertical=center",
+      name: "murty",
       time: "4 hours ago",
-      status: "Hawkeye",
+      status: "student",
     },
     {
-      avatar: "https://flxt.tmsimg.com/assets/308495_v9_bb.jpg",
-      name: "Anthony Mackie",
+      avatar: "https://png.pngtree.com/thumb_back/fw800/background/20231002/pngtree-stylish-3d-male-cartoon-with-glasses-and-vibrant-yellow-orange-polo-image_13510622.png",
+      name: "Nikhil",
       time: "8 hours ago",
-      status: "Falcon",
+      status: "student",
     },
     {
       avatar:
-        "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRpW3LbFgFmL3wF7AxVmNPkfKKVTg3hdeDwJAkQ6ffgI1aqNQH-ofOktw9CRPIIPA8IRuPHc9YeW1BGdTI",
-      name: "Chris Evans",
+        "https://png.pngtree.com/png-clipart/20241125/original/pngtree-cartoon-user-avatar-vector-png-image_17295195.png",
+      name: "Abhishek",
       time: "22 hours ago",
-      status: "Captain America",
+      status: "IT",
     },
     {
       avatar:
-        "https://hips.hearstapps.com/hmg-prod/images/chris-hemsworth-poses-during-a-photo-call-for-thor-ragnarok-on-october-15-2017-in-sydney-australia-photo-by-mark-metcalfe_getty-images-for-disney-square.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
-      name: "Chris Hemswoth",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI4l4dH547Q8rosQ3Yf5XVz2nFmTuWpTBSnQ&s",
+      name: "kavya",
       time: "1 day ago",
-      status: "Thor the god of thunder",
+      status: "anime",
     },
     {
-      avatar: "https://www.emmys.com/sites/default/files/Mark-Ruffalo.jpg",
-      name: "Mark Ruffalo",
+      avatar: "https://img.freepik.com/premium-vector/business-woman-avatar-illustration-simple-cartoon-user-portrait-business-leader_118339-4410.jpg",
+      name: "moon",
       time: "Dec 10",
-      status: "The Incrdible Hulk",
+      status: "actor",
     },
     {
       avatar:
-        "https://www.themoviedb.org/t/p/w500/mclHxMm8aPlCPKptP67257F5GPo.jpg",
-      name: "Tom Hiddleston",
+        "https://static.vecteezy.com/system/resources/previews/029/364/941/non_2x/3d-carton-of-boy-going-to-school-ai-photo.jpg",
+      name: "jagat",
       time: "Dec 8",
-      status: "Loki",
+      status: "student",
     },
     {
-      avatar: "https://flxt.tmsimg.com/assets/71830_v9_bb.jpg",
-      name: "Don Cheadle",
+      avatar: "https://png.pngtree.com/png-vector/20221203/ourmid/pngtree-cartoon-style-male-user-profile-icon-vector-illustraton-png-image_6489287.png",
+      name: "daddy",
       time: "Dec 6",
-      status: "Rhodey",
+      status: "player",
     },
     {
       avatar:
-        "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
-      name: "Stan Lee",
+        "https://avatoon.me/wp-content/uploads/2021/09/Cartoon-Pic-Ideas-for-DP-Profile11.png",
+      name: "mummy",
       time: "Dec 4",
-      status: "The Big Daddy",
+      status: "homemaker",
     },
     {
       avatar:
-        "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_FMjpg_UX1000_.jpg",
-      name: "S.L. Jackson",
+        "https://i.pinimg.com/236x/08/e3/c9/08e3c9f345bf81a24955b996ef746d94.jpg",
+      name: "kalpana",
       time: "Dec 2",
-      status: "Shield",
+      status: "home",
     },
   ];
   
